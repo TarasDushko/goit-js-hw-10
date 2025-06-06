@@ -21,7 +21,7 @@ body {
   justify-content: center;
   gap: 24px;
   margin: 0 auto;
-  background-color: #2e2f42;
+  background-color: gray;
   margin-top: 100px;
 }
 
@@ -32,7 +32,7 @@ body {
   width: 200px;
   height: 44px;
   border-radius: 8px;
-  background: #cfcfcf;
+  background: teal;
   text-transform: uppercase;
   font-weight: 600;
   line-height: 150%;
